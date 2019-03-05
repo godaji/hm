@@ -1,2 +1,2 @@
-from master and testing
+from b.master
 # hm
