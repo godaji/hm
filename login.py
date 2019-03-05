@@ -3,4 +3,5 @@ def login():
     return True
 
 def register():
-    pass
+    # has minor bug
+    return False
