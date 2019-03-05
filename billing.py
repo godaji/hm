@@ -1,3 +1,3 @@
 
 def handle_billing():
-    pass
+    return True
