@@ -1,2 +1,2 @@
-from a.master
+from a.master and b.master
 # hm
